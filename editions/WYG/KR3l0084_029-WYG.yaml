@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3l0084/WYG/v1/juan/29
+seq: 29
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 南村輟耕錄
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-09-12 01:08:42.113217'
+  source:
+    repository: kanripo
+    path: KR3l0084/KR3l0084_029.txt
+hash: sha256:ee374943dd89a91ede0e0f6ffd7b7cde24094830e1a80771b2a61dfbb0f99518
