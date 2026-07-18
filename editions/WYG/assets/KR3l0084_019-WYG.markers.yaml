@@ -1244,6 +1244,7 @@ markers:
   - {type: punctuation, offset: 3490, content: /, id: KR3l0084_WYG_019-bkkpn71}
   - {type: punctuation, offset: 3490, content: ), id: KR3l0084_WYG_019-bkkpn72}
   - {type: punctuation, offset: 3491, content: (, id: KR3l0084_WYG_019-bkkpn73}
+  - {type: 'voice:problem', offset: 3491, length: 2, id: KR3l0084_WYG_019-bkkvprob1, source: parens, bucket: body, code: expected-close, message: 'expected '')'' after ''('' at offset 3491, got ''('' at offset 3493'}
   - {type: punctuation, offset: 3492, content: /, id: KR3l0084_WYG_019-bkkpn74}
   - {type: punctuation, offset: 3492, content: ), id: KR3l0084_WYG_019-bkkpn75}
   - {type: 'kr:newline', offset: 3492, content: '
@@ -1975,4 +1976,4 @@ markers:
 
       ', id: KR3l0084_WYG_019-bkkkrnewl333}
   back: []
-hash: sha256:2d78bec0139e3b3d4a1591b205e3920b5cf427c7ec3a4538dd15a0e46e092b6a
+hash: sha256:e890424bec8c2dfdbe364614cea9a373e623ab577988446b02940ed42b26b79b
